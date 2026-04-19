@@ -1,7 +1,7 @@
 The Release contains two files, MSC.zip and MSC.py (https://github.com/cocomelonvirus/Minecraft-Sensitivity-Converter---MSC/releases/tag/Download)
 
 If you have Python installed and know how to run .py files, download the MSC.py
-If you don't know, download the MSC.zip
+If you don't know, download the MSC.zip (has .EXE)
 
 
 
